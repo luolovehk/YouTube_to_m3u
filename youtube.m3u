@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 中天亚洲台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656844/ei/bM-OZqW2L8CFkucP7ZiL0AM/ip/20.55.221.249/id/MJFaJER4Qxo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAQpWhRceFQRg3SbkJc-GC7z8hjpFQudipd48o6YnvpRTxJOS15dscy2LfLs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgAyyQQjtAnDnmfZyI0CXW6wTkcrgOhgpud5bEKFhKWXoCIQDa1Iq6R8ULiNpdxbIYYj5wr-lBgTB8LB6w1HPx_zaTdA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 大陸尋奇
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -21,55 +21,55 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 中视新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656846/ei/bs-OZuT_LIq0kucPoPCtiA8/ip/20.55.221.249/id/TCnaIE_SAtM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAQJMZucrImd2-vvLDDgoetZ0415iN2_xazQRluraR-P24RAqCZxP-7WYYjs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO7BbaybQOOkh0-CxGTaCVbyiCg1HhBfBWDMb5PqB8HMAiBe5-36scexzsrQ6hCECiLsNVA09CEUvcfWhge0t0cwog%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 镜新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656847/ei/b8-OZsXXDoi1kucPwrOiiAo/ip/20.55.221.249/id/5n0y6b0Q25o.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAfHB9XrOYw0ZZCEi58iEoitoMXORGY3l1M5g00iDSHS26r9D48M3FY04i94/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALBcbRPX_WDSRB3m-sAINnd33y61I3GDNpuUi095VtUTAiEAmq3DU2Yb1BtCgRidKO7-p0Ve3F9PkzPCwr76vTpk5g0%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 凤凰卫视
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656847/ei/b8-OZtj6NKa1kucPxZaPqA4/ip/20.55.221.249/id/HFib76ySpbU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAZWqlEx40LwUxxWXCJYg93Lvx_qoOGcI8spaRNt--SU1IT5lebqeEU5xnms/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeZ4kLCJRyGeesrH-VUreHg2gvmWw199mjsIhg6VJOzECIE2aVW9KTcQ_TG3yVy9bPwTfZ3pCPGHcmfI6-d6MuX1A/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 少康战情室
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TVBS News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656849/ei/cc-OZtLqHPy0kucPkYGGqAQ/ip/20.55.221.249/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/NO7bAXMuNtwm3MIQZbcD6TNo3_6c5DZv6tFn2JAFgy3P1IZ1QueVnEopZtUn3JM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWaQ_4VGc84hzoOE5xnwqR44-a5IcTiHxnx5cgSt7IqYCIQDLANGD3KTkrpH_TmqcLTlw12nON0pba6Eam7EwRQ9l8A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TVBS News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656850/ei/cs-OZsXaAc2GkucPxK-miA8/ip/20.55.221.249/id/m_dhMSvUCIc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51214394/txs/51214391%2C51214392%2C51214393%2C51214394/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAX6CKD-qfasjYA6lCU23h6T6_RFvdeGPS4_OPoAjAc-UStpV5CmmQ1Nw9nA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgTi3mXlIKafjFEUxbSBJJjV1ghw7lpnG44RQzzd0mzxYCIQDq5woi41yixSOLJgz216_Ii5virZRMRN7s0LvfcMIMNw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TVBS國際plus
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TVBS News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656850/ei/cs-OZtSBMeaJkucPrsuc4AI/ip/20.55.221.249/id/m_dhMSvUCIc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAXPtNiq6h80tvjIUhqPyDxNzJgAJSWSjgLkfkaaEgF83v4h0GTshnNlGRuA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLJbxM3V9OeU0zufBP1RhSVmUCLQkgBMMaPWMrTYMSSECIFrBFK3OZpAZ0xg0nv-16LqeFAfqcySv7Vtbxtro8U5Z/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 台视新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656851/ei/c8-OZoTwFuuAkucPzNiy6A8/ip/20.55.221.249/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAY9wvEEFOvo8I4rrmJZvPE7gx2LU3LSkOvqPPMctQxEjyuEUed4GA-PeXkU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgTqqBjW1YNyqDNVwNW7HKT-X0_TRPtGJHTwAMm4dXwTcCIByn10-KxJ7iyBVsunfJp_PVUXriK2i2wUbWtKVKx4gy/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 三立LIVE新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656851/ei/c8-OZuyPOqqFkucP0a2b6A8/ip/20.55.221.249/id/oZdzzvxTfUY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAcSBAhvjjK8DGNjvyWfK-KXIvrbnuAzoINEsF01zZnyLUDP68d4wV7BuzPk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYIZXUShXbHyt89U5ptLWDBT1M8uIRMLlsnbNJEpLIDwCIQDmGn1GDGk3W3fGqZDGtDd8HVtyJefgUluTbgjqRdk7Iw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 三立新闻网
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 民视新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656853/ei/dc-OZoK9H4yFkucP4Maa8A4/ip/20.55.221.249/id/ylYJSBUgaMA.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181253/txs/51181249%2C51181250%2C51181251%2C51181252%2C51181253%2C51181254/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAYrkwkAKELVi9ZMbU3rkiWcNuO9qJO8L0A425N0XNrBZjoN-5AtgQOqm03Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALkDrEbDv-1pE99g9nuzXfxiaNuLFKFoHDcRgtkrW-0RAiEAsw2RNcQFRDNeI8cW5MOneHkGvyG44hg4nhWE5ZqzeVs%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 东森新闻h51
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656854/ei/ds-OZuXFA5iLkucP8oaCwAU/ip/20.55.221.249/id/V1p33hqPrUk.19/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51214393/txs/51214391%2C51214392%2C51214393%2C51214394/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAVZ1f6aKEYDpD6ExoIlxRNLTuvK7hFtITz_uJDyRen6s0UOed8oaBppc62U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgN6SJ-tAKDP9oriWsCR2X42TseW8ihHDwlB3SrlVlDLUCIQD3rbc7afQOeteDXG5zJGEvUwojQ9oyk9CNv_O-4xotqA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 东森新闻
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 东森财经
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656854/ei/ds-OZuOiOMmJkucPnJCUwAM/ip/20.55.221.249/id/WHEPzbFA3hw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAVW9ibUAHLf0mwLfOU_7tDmyo4O3khAD80xLcTwJCV7KV4FjYjdNUX2ASuU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgY4jvmJC5Hh7u4jNH_uXk2rmCVP-sb50EksgaJEdDW0UCICJGOrE2GPKEjRBBPqXlw6HPa_EGuNulz425A2L4TEFd/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 寰宇新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656855/ei/d8-OZunFH5iKkucPg_C4-Ag/ip/20.55.221.249/id/NhZXUwlY2dU.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAZdDq3vLjIsMQ9VXD6mxDNjlPz1PA_Cpeo9dLdIJemNl6OQPWNTzFEx_Vu4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOHMIuP5Vvwc8ZWUjHEIs_u8fs1AzXNXhXiUrtEK8Y1fAiEA1W3xWJOQPJ0OxSLzQlU09RP9uIPnBB1j8b5lkliRhcs%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 华视综艺
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656856/ei/eM-OZrzYAdeKkucPqaif4A8/ip/20.55.221.249/id/cLMEH5lUZYA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181298/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAcID0MYXmQcyTm12hyAGIIf5qSk1L7vJMTqCL0CTRywLu1vvfLZVqqCZgz8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFe0LLktWXMT6PfKIdNDUje934LorZz99h_jXNBsxOiACIQCJtldFx4ahDSxBZ9QPRp4-hmQvCo0takzn4JxpRgONsA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 东森娱乐台
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -81,10 +81,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 中视综艺
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656859/ei/e8-OZq3hEISykucP66qI4As/ip/20.55.221.249/id/ADDSmXoPDY8.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51214391/txs/51214391%2C51214392%2C51214393%2C51214394/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAQWEZ6FOM9kP8AXZZpWdwrxP_avcgj37aFvEMqNB11i7or1Yg6ZkcUVeld0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMgsxoocDnwcvYKZqCehQc1-VHs8EX3dNDlBrcftIaNuAiAvboXQX2kZac-cuOY1sLzawFdqXDUsluiyvKGj6Jo_DA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 中视综艺
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656859/ei/e8-OZtzINdiLkucPt4SLgA8/ip/20.55.221.249/id/ADDSmXoPDY8.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAeF7c5cGFrNK0lM6z2eEzf2j53dzq_U4T5B-fQIfM-WN8wl77DWINuXuEEc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgK8KaZYu0xTRmk6cxNtOiX8UL_O4rzfjN7KVuO8725q8CIBpuY6TynyvZIYSGTyu22NjE1AybaB3BtievNhdLJ1fA/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hongkong" tvg-logo="" tvg-id="", tvbusa
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -108,7 +108,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", 小猪佩奇
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656862/ei/fs-OZo3XNb-AkucP3ouPwAk/ip/20.55.221.249/id/JAPZcBncxkY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAU9hctVmT7ZeeDUFm0XDoqvXvpeqTzKcJLHt7qU5UgGtWrDipPwFBxdkyLU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJDRt5jScU4iGlHR9rZuCkXHXTTbNy-rum0PESk0gVyLAiEAjZ9RgXZtHlIvMrAADhUrR0n7AvMNet-Enpu2vIs46UI%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", 中文国际
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720656863/ei/f8-OZvOfE-iKkucP1M-B-A4/ip/20.55.221.249/id/twhG7_jvA8g.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAWZUc-aw_H7tTM54MtLcsl5XEVREYUsTxFQQwEaO9OOzU2todHJ5Zx82MoA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgCbX1NZrd7W569ZmYc2BHoxvAEkw-hpHzqurpTbIY0fkCIEOFMb811sbSz-kElxzbwNfM2iAOnB0694GRi4bad05D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
