@@ -1,4 +1,5 @@
-## 📡 From Global Playlist to Personalized Streaming — Introducing [M3USe](https://m3use.projectmoose.xyz)
+## 📡 From Global Playlist to Personalized Streaming — Introducing 
+[M3USe](https://m3use.projectmoose.xyz)
 
 Hey folks — if you've used or followed this repo in the past, you might remember it started as an automated GitHub Actions workflow that created a public M3U playlist of livestreams (mostly YouTube). You could request channels, and I'd manually add them to the playlist for everyone.
 
